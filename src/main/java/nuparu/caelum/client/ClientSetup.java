@@ -12,6 +12,6 @@ import nuparu.caelum.client.overlay.DebugOverlay;
 public class ClientSetup {
     @SubscribeEvent
     public static void registerGuiOverlays(RegisterGuiOverlaysEvent event) {
-        //event.registerAboveAll(Caelum.MODID+"__upgrade", new DebugOverlay(Minecraft.getInstance()));
+        //event.registerAboveAll(Caelum.MODID+"__debug", new DebugOverlay(Minecraft.getInstance()));
     }
 }
