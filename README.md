@@ -32,3 +32,6 @@ Because of this, even though in polar regions you can see the Sun at night, the 
 The movement of the celestial bodies is an approximation and does not fully reflect the way it works in real-life (both Moon and Earth have perfectly circular orbits, Earth has no axial tilt, etc.)
 
 There are no guarantees made when it comes to compatibility with other mods (especially such that affect sky rendering in any way - such as Optifine).
+
+Credits:
+* [Stellar data](https://github.com/frostoven/BSC5P-JSON-XYZ)
