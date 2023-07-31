@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CurseForge](https://cf.way2muchnoise.eu/556708.svg)](https://www.curseforge.com/minecraft/mc-mods/caelum)
-[![CurseForge](https://cf.way2muchnoise.eu/versions/For%20MC_556708_all.svg)](https://www.curseforge.com/minecraft/mc-mods/caelum)
+[![CurseForge](https://cf.way2muchnoise.eu/versions/For%20MC_556708_all.svg?)](https://www.curseforge.com/minecraft/mc-mods/caelum)
 
 [![Discord](https://img.shields.io/discord/765992108602687558.svg?style=for-the-badge)](https://discord.gg/sJQWn8p)
 
