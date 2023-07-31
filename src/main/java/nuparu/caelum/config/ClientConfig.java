@@ -34,7 +34,7 @@ public class ClientConfig {
         maxZ = client.comment("The max Z - basically what Z is considered to be the south pole").defineInRange("latitude.max_z",300000000L, Long.MIN_VALUE, Long.MAX_VALUE);
         minZMargin = client.comment("Shifts the min Z. The idea is that the day-night cycle breaks near poles, so this can help by moving the poles out of the map").defineInRange("latitude.min_z_margin",0, 0, Long.MAX_VALUE);
         maxZMargin = client.comment("Shifts the max Z. The idea is that the day-night cycle breaks near poles, so this can help by moving the poles out of the map").defineInRange("latitude.max_z_margin",0, 0, Long.MAX_VALUE);
-        maxMagnitude = client.comment("Stars with magnitude above this value won't be rendered.").defineInRange("stars.mag_magnitude",5, 0, Double.MAX_VALUE);
+        maxMagnitude = client.comment("Stars with magnitude above this value won't be rendered.").defineInRange("stars.max_magnitude",5, 0, Double.MAX_VALUE);
         starBrightness = client.comment("Controls the brightness/opacity of the colors.").defineInRange("stars.star_brightness",2, 0, Double.MAX_VALUE);
         starColors = client.comment("Should stars have colors?").define("stars.star_colors",true);
         starSize = client.comment("Controls the size of the (custom) stars").defineInRange("stars.star_size",1, 0, Double.MAX_VALUE);
